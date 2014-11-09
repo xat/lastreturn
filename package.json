@@ -1,0 +1,26 @@
+{
+  "name": "lastreturn",
+  "version": "1.0.0",
+  "description": "get the last return value of a function as argument",
+  "main": "lastreturn.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:xat/lastreturn.git"
+  },
+  "keywords": [
+    "memorize"
+  ],
+  "author": "Simon Kusterer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xat/lastreturn/issues"
+  },
+  "homepage": "https://github.com/xat/lastreturn",
+    "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.0.1"
+  }
+}
